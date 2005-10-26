@@ -1,0 +1,37 @@
+ 14;-   ;AN  ;Dahlenwarsleben (Übergang A 14/B 71)              ;1   ;AS  ;Dahlenwarsleben                                   ; 0,5;11
+ 14;1   ;AS  ;Dahlenwarsleben                                   ;2   ;AK  ;Magdeburg, Kreuz                                  ; 3,7;11
+ 14;2   ;AK  ;Magdeburg, Kreuz                                  ;3   ;AS  ;Magdeburg-Stadtfeld                               ; 2,7;11
+ 14;3   ;AS  ;Magdeburg-Stadtfeld                               ;4   ;AS  ;Wanzleben                                         ; 7,1;11
+ 14;4   ;AS  ;Wanzleben                                         ;5   ;AS  ;Magdeburg-Sudenburg                               ; 1,7;11
+ 14;5   ;AS  ;Magdeburg-Sudenburg                               ;6   ;AS  ;Magdeburg-Reform                                  ; 4,4;11
+ 14;6   ;AS  ;Magdeburg-Reform                                  ;7   ;AS  ;Schönebeck                                        ; 6,6;11
+ 14;7   ;AS  ;Schönebeck                                        ;8   ;AS  ;Calbe                                             ;12,4;11
+ 14;8   ;AS  ;Calbe                                             ;9   ;AS  ;Stassfurt                                         ; 5,4;11
+ 14;9   ;AS  ;Stassfurt                                         ;10  ;AS  ;Bernburg                                          ; 5,4;11
+ 14;10  ;AS  ;Bernburg                                          ;11  ;AS  ;Plötzkau                                          ; 8,1;11
+ 14;11  ;AS  ;Plötzkau                                          ;12  ;AS  ;Könnern                                           ; 9,2;11
+ 14;12  ;AS  ;Könnern                                           ;13  ;AS  ;Löbejün                                           ; 8,3;11
+ 14;13  ;AS  ;Löbejün                                           ;15  ;AS  ;Trotha                                            ; 7,9;11
+ 14;15  ;AS  ;Trotha                                            ;16  ;AS  ;Tornau                                            ; 9,4;11
+ 14;16  ;AS  ;Tornau                                            ;17  ;AS  ;Halle/Peißen                                      ; 4,5;11
+ 14;17  ;AS  ;Halle/Peißen                                      ;18  ;BS  ;Behelfs-AS Halle-Ost                              ; 3,9;11
+ 14;18  ;BS  ;Behelfs-AS Halle-Ost                              ;19  ;BS  ;Gröbers (Behelfs-AS)                              ; 4,6;11
+ 14;19  ;BS  ;Gröbers (Behelfs-AS)                              ;20  ;AK  ;Schkeuditzer Kreuz                                ; 5,8;11
+ 14;20  ;AK  ;Schkeuditzer Kreuz                                ;21  ;AS  ;Schkeuditz                                        ; 4,2;11
+ 14;21  ;AS  ;Schkeuditz                                        ;22  ;AS  ;Leipzig-Nord                                      ; 3,7;11
+ 14;22  ;AS  ;Leipzig-Nord                                      ;23  ;AS  ;Leipzig-Mitte                                     ; 5,6;11
+ 14;23  ;AS  ;Leipzig-Mitte                                     ;24  ;AS  ;Leipzig-Messegelände                              ; 2,4;11
+ 14;24  ;AS  ;Leipzig-Messegelände                              ;25  ;AS  ;Leipzig-Nordost                                   ; 4,5;11
+ 14;25  ;AS  ;Leipzig-Nordost                                   ;26  ;AS  ;Leipzig-Ost                                       ; 2,5;11
+ 14;26  ;AS  ;Leipzig-Ost                                       ;27  ;AS  ;Kleinpösna                                        ; 4,5;11
+ 14;27  ;AS  ;Kleinpösna                                        ;28  ;AD  ;Partheaue                                         ; 2,4;1g
+ 14;28  ;AD  ;Partheaue                                         ;29  ;AS  ;Naunhof                                           ; 3,1;g1
+ 14;29  ;AS  ;Naunhof                                           ;30  ;AS  ;Klinga                                            ; 3,8;11
+ 14;30  ;AS  ;Klinga                                            ;31  ;AS  ;Grimma                                            ; 7,3;11
+ 14;31  ;AS  ;Grimma                                            ;32  ;AS  ;Mutzschen                                         ; 9,2;11
+ 14;32  ;AS  ;Mutzschen                                         ;33  ;AS  ;Leisnig                                           ; 9,4;11
+ 14;33  ;AS  ;Leisnig                                           ;34  ;AS  ;Döbeln-Nord                                       ;12,2;11
+ 14;34  ;AS  ;Döbeln-Nord                                       ;35  ;AS  ;Döbeln-Ost                                        ; 6,5;11
+ 14;35  ;AS  ;Döbeln-Ost                                        ;36  ;AS  ;Nossen-Nord                                       ; 7,3;11
+ 14;36  ;AS  ;Nossen-Nord                                       ;37  ;AS  ;Nossen-Ost                                        ; 6,1;11
+ 14;37  ;AS  ;Nossen-Ost                                        ;38  ;AD  ;Nossen, Dreieck                                   ; 1,6;11

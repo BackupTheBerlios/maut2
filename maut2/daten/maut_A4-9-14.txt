@@ -1,0 +1,222 @@
+  4;1   ;BG  ;Vetschau, Bundesgrenze                            ;2   ;AS  ;Aachen-Laurensberg                                ; 4,2;11
+  4;2   ;AS  ;Aachen-Laurensberg                                ;3   ;AS  ;Aachen-Zentrum                                    ; 2,5;11
+  4;3   ;AS  ;Aachen-Zentrum                                    ;4   ;AK  ;Aachen, Kreuz                                     ; 4,3;11
+  4;4   ;AK  ;Aachen, Kreuz                                     ;5   ;AS  ;Eschweiler                                        ; 6,0;11
+  4;5   ;AS  ;Eschweiler                                        ;6   ;AS  ;Weisweiler                                        ; 5,7;11
+  4;6   ;AS  ;Weisweiler                                        ;7   ;AS  ;Düren                                             ; 9,1;11
+  4;7   ;AS  ;Düren                                             ;8   ;AS  ;Buir                                              ; 9,7;11
+  4;8   ;AS  ;Buir                                              ;9   ;AS  ;Kerpen                                            ; 8,8;11
+  4;9   ;AS  ;Kerpen                                            ;9   ;AK  ;Kerpen, Kreuz                                     ; 0,6;11
+  4;9   ;AK  ;Kerpen, Kreuz                                     ;10  ;AK  ;Köln-West, Kreuz                                  ;12,0;11
+  4;10  ;AK  ;Köln-West, Kreuz                                  ;11  ;AS  ;Köln-Klettenberg                                  ; 5,5;11
+  4;11  ;AS  ;Köln-Klettenberg                                  ;-   ;AS  ;Containerbahnhof Köln-Eifeltor                    ; 1,4;11
+  4;-   ;AS  ;Containerbahnhof Köln-Eifeltor                    ;12  ;AK  ;Köln-Süd, Kreuz                                   ; 3,3;11
+  4;12  ;AK  ;Köln-Süd, Kreuz                                   ;13  ;AS  ;Köln-Poll                                         ; 3,7;11
+  4;13  ;AS  ;Köln-Poll                                         ;14  ;AK  ;Gremberg, Kreuz                                   ; 1,9;11
+  4;14  ;AK  ;Gremberg, Kreuz                                   ;15  ;AD  ;Heumar, Dreieck                                   ; 2,2;11
+  4;28  ;AD  ;Heumar, Dreieck                                   ;27  ;AK  ;Köln-Ost, Kreuz                                   ; 3,6;11
+  4;16  ;AK  ;Köln-Ost, Kreuz                                   ;17  ;AS  ;Köln-Merheim                                      ; 1,5;11
+  4;17  ;AS  ;Köln-Merheim                                      ;18  ;AS  ;Refrath                                           ; 3,0;11
+  4;18  ;AS  ;Refrath                                           ;19  ;AS  ;Bensberg                                          ; 2,3;11
+  4;19  ;AS  ;Bensberg                                          ;20  ;AS  ;Moitzfeld                                         ; 3,5;11
+  4;20  ;AS  ;Moitzfeld                                         ;21  ;AS  ;Untereschbach                                     ; 3,0;11
+  4;21  ;AS  ;Untereschbach                                     ;22  ;AS  ;Overath                                           ; 6,7;11
+  4;22  ;AS  ;Overath                                           ;23  ;AS  ;Engelskirchen                                     ;11,0;11
+  4;23  ;AS  ;Engelskirchen                                     ;24  ;AS  ;Bielstein                                         ; 2,5;11
+  4;24  ;AS  ;Bielstein                                         ;25  ;AS  ;Gummersbach                                       ; 4,5;11
+  4;25  ;AS  ;Gummersbach                                       ;26  ;AS  ;Reichshof/Bergneustadt                            ; 8,6;11
+  4;26  ;AS  ;Reichshof/Bergneustadt                            ;27  ;AS  ;Eckenhagen                                        ; 6,2;11
+  4;27  ;AS  ;Eckenhagen                                        ;26  ;AS  ;Reichshof/Bergneustadt                            ; 5,5;rr
+  4;27  ;AS  ;Eckenhagen                                        ;28  ;AK  ;Olpe-Süd, Kreuz                                   ; 8,8;11
+  4;28  ;AK  ;Olpe-Süd, Kreuz                                   ;27  ;AS  ;Eckenhagen                                        ; 9,5;rr
+  4;28  ;AK  ;Olpe-Süd, Kreuz                                   ;28  ;AS  ;Wenden                                            ; 0,5;11
+  4;31  ;AD  ;Kirchheimer Dreieck                               ;32  ;AS  ;Bad Hersfeld                                      ;10,3;11
+  4;32  ;AS  ;Bad Hersfeld                                      ;33  ;AS  ;Friedewald                                        ;11,3;11
+  4;33  ;AS  ;Friedewald                                        ;34  ;AS  ;Wildeck-Hönebach                                  ; 7,2;11
+  4;34  ;AS  ;Wildeck-Hönebach                                  ;35  ;AS  ;Wildeck-Obersuhl                                  ; 7,1;11
+  4;35  ;AS  ;Wildeck-Obersuhl                                  ;36  ;AS  ;Gerstungen                                        ; 2,1;11
+  4;36  ;AS  ;Gerstungen                                        ;37  ;AS  ;Wommen                                            ; 8,2;11
+  4;37  ;AS  ;Wommen                                            ;38  ;AS  ;Herleshausen                                      ; 4,4;11
+  4;38  ;AS  ;Herleshausen                                      ;-   ;-   ;TR Eisenach (Wendemöglichkeit)                    ; 5,5;11
+  4;-   ;-   ;TR Eisenach (Wendemöglichkeit)                    ;39a ;AS  ;Eisenach-West                                     ; 3,2;11
+  4;39a ;AS  ;Eisenach-West                                     ;39b ;AS  ;Eisenach-Mitte                                    ; 1,8;11
+  4;39b ;AS  ;Eisenach-Mitte                                    ;40a ;AS  ;Eisenach-Ost                                      ; 3,5;11
+  4;40a ;AS  ;Eisenach-Ost                                      ;40b ;AS  ;Wutha-Farnroda                                    ; 2,1;11
+  4;40b ;AS  ;Wutha-Farnroda                                    ;41a ;AS  ;Waltershausen                                     ;13,8;11
+  4;41a ;AS  ;Waltershausen                                     ;41b ;AS  ;Gotha-Boxberg                                     ; 4,8;11
+  4;41b ;AS  ;Gotha-Boxberg                                     ;42  ;AS  ;Gotha                                             ; 8,3;11
+  4;42  ;AS  ;Gotha                                             ;43  ;AS  ;Wandersleben                                      ; 8,0;11
+  4;43  ;AS  ;Wandersleben                                      ;44  ;AS  ;Neudietendorf                                     ; 7,7;11
+  4;44  ;AS  ;Neudietendorf                                     ;45  ;AK  ;Erfurt, Kreuz                                     ; 1,6;11
+  4;45  ;AK  ;Erfurt, Kreuz                                     ;46  ;AS  ;Erfurt-West                                       ; 3,9;11
+  4;46  ;AS  ;Erfurt-West                                       ;47a ;AS  ;Erfurt-Ost                                        ; 9,6;11
+  4;47a ;AS  ;Erfurt-Ost                                        ;47b ;AS  ;Erfurt-Vieselbach                                 ; 3,2;11
+  4;47b ;AS  ;Erfurt-Vieselbach                                 ;48  ;AS  ;Nohra                                             ; 4,9;11
+  4;48  ;AS  ;Nohra                                             ;49  ;AS  ;Weimar                                            ; 3,9;11
+  4;49  ;AS  ;Weimar                                            ;50  ;AS  ;Apolda                                            ; 6,8;11
+  4;50  ;AS  ;Apolda                                            ;51  ;AS  ;Magdala                                           ; 5,3;11
+  4;51  ;AS  ;Magdala                                           ;52  ;AS  ;Schorba                                           ; 3,4;11
+  4;52  ;AS  ;Schorba                                           ;53  ;AS  ;Jena-Göschwitz                                    ; 9,1;11
+  4;53  ;AS  ;Jena-Göschwitz                                    ;54  ;AS  ;Jena-Lobeda                                       ; 1,9;11
+  4;54  ;AS  ;Jena-Lobeda                                       ;55  ;AS  ;Stadtroda                                         ;11,5;11
+  4;55  ;AS  ;Stadtroda                                         ;56a ;AK  ;Hermsdorfer Kreuz                                 ; 5,1;11
+  4;56a ;AK  ;Hermsdorfer Kreuz                                 ;56b ;AS  ;Hermsdorf-Ost                                     ; 2,3;11
+  4;56b ;AS  ;Hermsdorf-Ost                                     ;57  ;AS  ;Rüdersdorf (A 4)                                  ; 7,7;11
+  4;57  ;AS  ;Rüdersdorf (A 4)                                  ;58  ;AS  ;Gera                                              ; 6,3;11
+  4;58  ;AS  ;Gera                                              ;59  ;AS  ;Gera-Leumnitz                                     ; 7,1;11
+  4;59  ;AS  ;Gera-Leumnitz                                     ;60  ;AS  ;Ronneburg                                         ; 5,8;11
+  4;60  ;AS  ;Ronneburg                                         ;61  ;AS  ;Schmölln (A 4)                                    ; 8,1;11
+  4;61  ;AS  ;Schmölln (A 4)                                    ;62  ;AS  ;Meerane                                           ; 8,7;11
+  4;62  ;AS  ;Meerane                                           ;63  ;AS  ;Glauchau-West                                     ; 3,1;11
+  4;63  ;AS  ;Glauchau-West                                     ;64  ;AS  ;Glauchau-Ost                                      ; 4,0;11
+  4;64  ;AS  ;Glauchau-Ost                                      ;65  ;AS  ;Hohenstein-Ernstthal                              ; 9,4;11
+  4;65  ;AS  ;Hohenstein-Ernstthal                              ;66  ;AS  ;Wüstenbrand                                       ; 6,9;11
+  4;66  ;AS  ;Wüstenbrand                                       ;67  ;AS  ;Limbach-Oberfrohna                                ; 4,6;11
+  4;67  ;AS  ;Limbach-Oberfrohna                                ;68  ;AD  ;Chemnitz, Kreuz                                   ; 2,7;11
+  4;68  ;AD  ;Chemnitz, Kreuz                                   ;69  ;AS  ;Chemnitz-Nord                                     ; 2,1;11
+  4;69  ;AS  ;Chemnitz-Nord                                     ;70  ;AS  ;Chemnitz-Glösa                                    ; 3,8;11
+  4;70  ;AS  ;Chemnitz-Glösa                                    ;71  ;AS  ;Chemnitz-Ost                                      ; 5,9;11
+  4;71  ;AS  ;Chemnitz-Ost                                      ;72  ;AS  ;Frankenberg                                       ; 5,9;11
+  4;72  ;AS  ;Frankenberg                                       ;73  ;AS  ;Hainichen                                         ; 7,1;11
+  4;73  ;AS  ;Hainichen                                         ;74  ;AS  ;Berbersdorf                                       ; 7,6;11
+  4;74  ;AS  ;Berbersdorf                                       ;75  ;AS  ;Siebenlehn                                        ; 7,9;11
+  4;75  ;AS  ;Siebenlehn                                        ;76  ;AD  ;Nossen, Dreieck                                   ; 5,8;11
+  4;76  ;AD  ;Nossen, Dreieck                                   ;77a ;AS  ;Wilsdruff                                         ;11,5;11
+  4;77a ;AS  ;Wilsdruff                                         ;77b ;AD  ;Dresden-West, Dreieck                             ; 5,6;11
+  4;77b ;AD  ;Dresden-West, Dreieck                             ;78  ;AS  ;Dresden-Altstadt                                  ; 3,3;11
+  4;78  ;AS  ;Dresden-Altstadt                                  ;79  ;AS  ;Dresden-Neustadt                                  ; 3,2;11
+  4;79  ;AS  ;Dresden-Neustadt                                  ;80  ;AS  ;Dresden-Wilder Mann                               ; 2,8;11
+  4;80  ;AS  ;Dresden-Wilder Mann                               ;81a ;AS  ;Dresden-Hellerau                                  ; 1,6;11
+  4;81a ;AS  ;Dresden-Hellerau                                  ;81b ;AS  ;Dresden-Flughafen                                 ; 2,1;11
+  4;81b ;AS  ;Dresden-Flughafen                                 ;82  ;AD  ;Dresden-Nord, Dreieck                             ; 1,4;11
+  4;82  ;AD  ;Dresden-Nord, Dreieck                             ;83  ;AS  ;Hermsdorf                                         ; 6,6;11
+  4;83  ;AS  ;Hermsdorf                                         ;84  ;AS  ;Ottendorf-Okrilla                                 ; 2,4;11
+  4;84  ;AS  ;Ottendorf-Okrilla                                 ;85  ;AS  ;Pulsnitz                                          ; 8,6;11
+  4;85  ;AS  ;Pulsnitz                                          ;86  ;AS  ;Ohorn                                             ; 5,8;11
+  4;86  ;AS  ;Ohorn                                             ;87  ;AS  ;Burkau                                            ; 6,6;11
+  4;87  ;AS  ;Burkau                                            ;88a ;AS  ;Uhyst a.T.                                        ; 6,3;11
+  4;88a ;AS  ;Uhyst a.T.                                        ;88b ;AS  ;Salzenforst                                       ;10,2;11
+  4;88b ;AS  ;Salzenforst                                       ;89  ;AS  ;Bautzen-West                                      ; 4,0;11
+  4;89  ;AS  ;Bautzen-West                                      ;90  ;AS  ;Bautzen-Ost                                       ; 3,9;11
+  4;90  ;AS  ;Bautzen-Ost                                       ;91  ;AS  ;Weißenberg                                        ;14,5;11
+  4;91  ;AS  ;Weißenberg                                        ;92  ;AS  ;Nieder Seifersdorf                                ; 7,1;11
+  4;92  ;AS  ;Nieder Seifersdorf                                ;93  ;AS  ;Kodersdorf                                        ;11,0;11
+  4;93  ;AS  ;Kodersdorf                                        ;94  ;AS  ;Görlitz                                           ; 4,8;11
+  4;94  ;AS  ;Görlitz                                           ;95  ;BG  ;Görlitz, Bundesgrenze                             ; 3,7;11
+  9;1   ;AD  ;Potsdam, Dreieck                                  ;2   ;AS  ;Beelitz-Heilstätten                               ; 2,4;11
+  9;2   ;AS  ;Beelitz-Heilstätten                               ;3   ;AS  ;Beelitz                                           ; 6,4;11
+  9;3   ;AS  ;Beelitz                                           ;4   ;AS  ;Brück                                             ;10,6;11
+  9;4   ;AS  ;Brück                                             ;5   ;AS  ;Niemegk                                           ; 9,4;11
+  9;5   ;AS  ;Niemegk                                           ;6   ;AS  ;Klein Marzehns                                    ;12,0;11
+  9;6   ;AS  ;Klein Marzehns                                    ;7   ;AS  ;Köselitz                                          ;10,3;11
+  9;7   ;AS  ;Köselitz                                          ;8   ;AS  ;Coswig                                            ; 9,4;11
+  9;8   ;AS  ;Coswig                                            ;9   ;AS  ;Vockerode                                         ; 7,0;11
+  9;9   ;AS  ;Vockerode                                         ;10  ;AS  ;Dessau-Ost                                        ; 3,2;11
+  9;10  ;AS  ;Dessau-Ost                                        ;11  ;AS  ;Dessau-Süd                                        ; 9,6;11
+  9;11  ;AS  ;Dessau-Süd                                        ;12  ;AS  ;Wolfen                                            ;13,2;11
+  9;12  ;AS  ;Wolfen                                            ;13  ;AS  ;Halle a.d. Saale                                  ; 9,6;11
+  9;13  ;AS  ;Halle a.d. Saale                                  ;14  ;AS  ;Wiedemar                                          ; 9,8;11
+  9;14  ;AS  ;Wiedemar                                          ;15  ;AK  ;Schkeuditzer Kreuz                                ; 4,4;11
+  9;15  ;AK  ;Schkeuditzer Kreuz                                ;16  ;AS  ;Großkugel                                         ; 3,3;11
+  9;16  ;AS  ;Großkugel                                         ;17  ;AS  ;Leipzig-West                                      ; 6,0;11
+  9;17  ;AS  ;Leipzig-West                                      ;18  ;AS  ;Bad Dürrenberg                                    ; 7,3;11
+  9;18  ;AS  ;Bad Dürrenberg                                    ;19  ;AK  ;Rippachtal, Kreuz                                 ; 7,8;11
+  9;19  ;AK  ;Rippachtal, Kreuz                                 ;20  ;AS  ;Weißenfels                                        ; 7,8;11
+  9;20  ;AS  ;Weißenfels                                        ;21a ;AS  ;Naumburg                                          ;10,3;11
+  9;21a ;AS  ;Naumburg                                          ;21b ;AS  ;Droyßig                                           ; 5,8;11
+  9;21b ;AS  ;Droyßig                                           ;22  ;AS  ;Eisenberg                                         ;10,3;11
+  9;22  ;AS  ;Eisenberg                                         ;23  ;AS  ;Bad Klosterlausnitz                               ; 7,3;11
+  9;23  ;AS  ;Bad Klosterlausnitz                               ;24  ;AK  ;Hermsdorfer Kreuz                                 ; 3,6;11
+  9;24  ;AK  ;Hermsdorfer Kreuz                                 ;25  ;AS  ;Hermsdorf-Süd                                     ; 2,0;11
+  9;25  ;AS  ;Hermsdorf-Süd                                     ;26  ;AS  ;Triptis                                           ;15,8;11
+  9;26  ;AS  ;Triptis                                           ;27  ;AS  ;Dittersdorf                                       ; 9,7;11
+  9;27  ;AS  ;Dittersdorf                                       ;28  ;AS  ;Schleiz                                           ;13,0;11
+  9;28  ;AS  ;Schleiz                                           ;29  ;AS  ;Lobenstein                                        ;12,6;11
+  9;29  ;AS  ;Lobenstein                                        ;30  ;AS  ;Rudolphstein                                      ; 4,5;11
+  9;30  ;AS  ;Rudolphstein                                      ;31  ;AS  ;Berg/Bad Steben                                   ; 5,3;11
+  9;31  ;AS  ;Berg/Bad Steben                                   ;32  ;AS  ;Naila/Selbitz                                     ; 4,2;11
+  9;32  ;AS  ;Naila/Selbitz                                     ;33  ;AD  ;Bayerisches Vogtland, Dreieck                     ; 1,8;11
+  9;33  ;AD  ;Bayerisches Vogtland, Dreieck                     ;34  ;AS  ;Hof-West                                          ; 3,6;11
+  9;34  ;AS  ;Hof-West                                          ;35  ;AS  ;Münchberg-Nord                                    ;10,3;11
+  9;35  ;AS  ;Münchberg-Nord                                    ;36  ;AS  ;Münchberg-Süd                                     ; 4,5;11
+  9;36  ;AS  ;Münchberg-Süd                                     ;37  ;AS  ;Gefrees                                           ; 9,9;11
+  9;37  ;AS  ;Gefrees                                           ;38  ;AS  ;Marktschorgast                                    ; 2,5;11
+  9;38  ;AS  ;Marktschorgast                                    ;39  ;AS  ;Bad Berneck i. F. /Himmelkron                     ; 5,0;11
+  9;39  ;AS  ;Bad Berneck i. F. /Himmelkron                     ;40a ;AD  ;Bayreuth/Kulmbach, Dreieck                        ; 3,5;11
+  9;40a ;AD  ;Bayreuth/Kulmbach, Dreieck                        ;40b ;AS  ;Bindlacher Berg                                   ; 1,2;11
+  9;40b ;AS  ;Bindlacher Berg                                   ;41  ;AS  ;Bayreuth-Nord                                     ; 6,3;11
+  9;41  ;AS  ;Bayreuth-Nord                                     ;42  ;AS  ;Bayreuth-Süd                                      ; 4,0;11
+  9;42  ;AS  ;Bayreuth-Süd                                      ;43  ;AS  ;Trockau                                           ;15,5;11
+  9;43  ;AS  ;Trockau                                           ;44  ;AS  ;Pegnitz                                           ;12,0;11
+  9;44  ;AS  ;Pegnitz                                           ;45  ;AS  ;Weidensees                                        ; 4,2;11
+  9;45  ;AS  ;Weidensees                                        ;46  ;AS  ;Plech                                             ; 4,6;11
+  9;46  ;AS  ;Plech                                             ;47  ;AS  ;Hormersdorf                                       ; 6,8;11
+  9;47  ;AS  ;Hormersdorf                                       ;48  ;AS  ;Schnaittach                                       ; 8,8;11
+  9;48  ;AS  ;Schnaittach                                       ;47  ;AS  ;Hormersdorf                                       ; 8,7;rr
+  9;48  ;AS  ;Schnaittach                                       ;49  ;AS  ;Lauf/Hersbruck                                    ; 5,8;11
+  9;49  ;AS  ;Lauf/Hersbruck                                    ;50  ;AS  ;Lauf                                              ; 2,6;11
+  9;50  ;AS  ;Lauf                                              ;51  ;AK  ;Nürnberg, Kreuz                                   ; 5,4;11
+  9;51  ;AK  ;Nürnberg, Kreuz                                   ;52  ;AS  ;Nürnberg-Fischbach                                ; 6,9;11
+  9;52  ;AS  ;Nürnberg-Fischbach                                ;53  ;AK  ;Nürnberg-Ost, Kreuz                               ; 1,2;11
+  9;53  ;AK  ;Nürnberg-Ost, Kreuz                               ;-   ;-   ;TR Nürnberg-Feucht (Wendemöglichkeit)             ; 4,4;11
+  9;-   ;-   ;TR Nürnberg-Feucht (Wendemöglichkeit)             ;54  ;AD  ;Nürnberg/Feucht, Dreieck                          ; 0,8;11
+  9;54  ;AD  ;Nürnberg/Feucht, Dreieck                          ;55  ;AS  ;Allersberg                                        ;11,3;11
+  9;55  ;AS  ;Allersberg                                        ;56  ;AS  ;Hilpoltstein                                      ;10,3;11
+  9;56  ;AS  ;Hilpoltstein                                      ;57  ;AS  ;Greding                                           ;15,5;11
+  9;57  ;AS  ;Greding                                           ;58  ;AS  ;Altmühltal                                        ; 6,3;11
+  9;58  ;AS  ;Altmühltal                                        ;59  ;AS  ;Denkendorf                                        ;10,3;11
+  9;59  ;AS  ;Denkendorf                                        ;60  ;AS  ;Lenting                                           ;13,1;11
+  9;60  ;AS  ;Lenting                                           ;61  ;AS  ;Ingolstadt-Nord                                   ; 4,9;11
+  9;61  ;AS  ;Ingolstadt-Nord                                   ;62  ;AS  ;Ingolstadt-Süd                                    ; 2,4;11
+  9;62  ;AS  ;Ingolstadt-Süd                                    ;63  ;AS  ;Manching                                          ; 4,9;11
+  9;63  ;AS  ;Manching                                          ;64  ;AS  ;Langenbruck                                       ; 7,6;11
+  9;64  ;AS  ;Langenbruck                                       ;65  ;AD  ;Holledau, Dreieck                                 ; 9,5;11
+  9;65  ;AD  ;Holledau, Dreieck                                 ;-   ;-   ;TR In der Holledau (Wendemöglichkeit)             ; 2,9;11
+  9;-   ;-   ;TR In der Holledau (Wendemöglichkeit)             ;66  ;AS  ;Pfaffenhofen                                      ; 6,0;11
+  9;66  ;AS  ;Pfaffenhofen                                      ;67  ;AS  ;Allershausen                                      ; 8,7;11
+  9;67  ;AS  ;Allershausen                                      ;68  ;AK  ;Neufahrn, Kreuz                                   ;13,0;11
+  9;68  ;AK  ;Neufahrn, Kreuz                                   ;69  ;AS  ;Eching                                            ; 1,9;11
+  9;69  ;AS  ;Eching                                            ;70  ;AS  ;Garching-Nord                                     ; 4,2;11
+  9;70  ;AS  ;Garching-Nord                                     ;71  ;AS  ;Garching-Süd                                      ; 2,4;11
+  9;71  ;AS  ;Garching-Süd                                      ;72  ;AK  ;München-Nord, Kreuz                               ; 2,6;11
+  9;72  ;AK  ;München-Nord, Kreuz                               ;73  ;AS  ;München-Fröttmaning                               ; 1,8;11
+  9;73  ;AS  ;München-Fröttmaning                               ;74  ;AS  ;München-Freimann                                  ; 0,9;11
+  9;74  ;AS  ;München-Freimann                                  ;75  ;AS  ;München-Frankfurter Ring                          ; 1,3;11
+  9;75  ;AS  ;München-Frankfurter Ring                          ;76  ;AS  ;München-Schwabing                                 ; 2,0;11
+ 14;-   ;AN  ;Dahlenwarsleben (Übergang A 14/B 71)              ;1   ;AS  ;Dahlenwarsleben                                   ; 0,5;11
+ 14;1   ;AS  ;Dahlenwarsleben                                   ;2   ;AK  ;Magdeburg, Kreuz                                  ; 3,7;11
+ 14;2   ;AK  ;Magdeburg, Kreuz                                  ;3   ;AS  ;Magdeburg-Stadtfeld                               ; 2,7;11
+ 14;3   ;AS  ;Magdeburg-Stadtfeld                               ;4   ;AS  ;Wanzleben                                         ; 7,1;11
+ 14;4   ;AS  ;Wanzleben                                         ;5   ;AS  ;Magdeburg-Sudenburg                               ; 1,7;11
+ 14;5   ;AS  ;Magdeburg-Sudenburg                               ;6   ;AS  ;Magdeburg-Reform                                  ; 4,4;11
+ 14;6   ;AS  ;Magdeburg-Reform                                  ;7   ;AS  ;Schönebeck                                        ; 6,6;11
+ 14;7   ;AS  ;Schönebeck                                        ;8   ;AS  ;Calbe                                             ;12,4;11
+ 14;8   ;AS  ;Calbe                                             ;9   ;AS  ;Stassfurt                                         ; 5,4;11
+ 14;9   ;AS  ;Stassfurt                                         ;10  ;AS  ;Bernburg                                          ; 5,4;11
+ 14;10  ;AS  ;Bernburg                                          ;11  ;AS  ;Plötzkau                                          ; 8,1;11
+ 14;11  ;AS  ;Plötzkau                                          ;12  ;AS  ;Könnern                                           ; 9,2;11
+ 14;12  ;AS  ;Könnern                                           ;13  ;AS  ;Löbejün                                           ; 8,3;11
+ 14;13  ;AS  ;Löbejün                                           ;15  ;AS  ;Trotha                                            ; 7,9;11
+ 14;15  ;AS  ;Trotha                                            ;16  ;AS  ;Tornau                                            ; 9,4;11
+ 14;16  ;AS  ;Tornau                                            ;17  ;AS  ;Halle/Peißen                                      ; 4,5;11
+ 14;17  ;AS  ;Halle/Peißen                                      ;18  ;BS  ;Behelfs-AS Halle-Ost                              ; 3,9;11
+ 14;18  ;BS  ;Behelfs-AS Halle-Ost                              ;19  ;BS  ;Gröbers (Behelfs-AS)                              ; 4,6;11
+ 14;19  ;BS  ;Gröbers (Behelfs-AS)                              ;20  ;AK  ;Schkeuditzer Kreuz                                ; 5,8;11
+ 14;20  ;AK  ;Schkeuditzer Kreuz                                ;21  ;AS  ;Schkeuditz                                        ; 4,2;11
+ 14;21  ;AS  ;Schkeuditz                                        ;22  ;AS  ;Leipzig-Nord                                      ; 3,7;11
+ 14;22  ;AS  ;Leipzig-Nord                                      ;23  ;AS  ;Leipzig-Mitte                                     ; 5,6;11
+ 14;23  ;AS  ;Leipzig-Mitte                                     ;24  ;AS  ;Leipzig-Messegelände                              ; 2,4;11
+ 14;24  ;AS  ;Leipzig-Messegelände                              ;25  ;AS  ;Leipzig-Nordost                                   ; 4,5;11
+ 14;25  ;AS  ;Leipzig-Nordost                                   ;26  ;AS  ;Leipzig-Ost                                       ; 2,5;11
+ 14;26  ;AS  ;Leipzig-Ost                                       ;27  ;AS  ;Kleinpösna                                        ; 4,5;11
+ 14;27  ;AS  ;Kleinpösna                                        ;28  ;AD  ;Partheaue                                         ; 2,4;1g
+ 14;28  ;AD  ;Partheaue                                         ;29  ;AS  ;Naunhof                                           ; 3,1;g1
+ 14;29  ;AS  ;Naunhof                                           ;30  ;AS  ;Klinga                                            ; 3,8;11
+ 14;30  ;AS  ;Klinga                                            ;31  ;AS  ;Grimma                                            ; 7,3;11
+ 14;31  ;AS  ;Grimma                                            ;32  ;AS  ;Mutzschen                                         ; 9,2;11
+ 14;32  ;AS  ;Mutzschen                                         ;33  ;AS  ;Leisnig                                           ; 9,4;11
+ 14;33  ;AS  ;Leisnig                                           ;34  ;AS  ;Döbeln-Nord                                       ;12,2;11
+ 14;34  ;AS  ;Döbeln-Nord                                       ;35  ;AS  ;Döbeln-Ost                                        ; 6,5;11
+ 14;35  ;AS  ;Döbeln-Ost                                        ;36  ;AS  ;Nossen-Nord                                       ; 7,3;11
+ 14;36  ;AS  ;Nossen-Nord                                       ;37  ;AS  ;Nossen-Ost                                        ; 6,1;11
+ 14;37  ;AS  ;Nossen-Ost                                        ;38  ;AD  ;Nossen, Dreieck                                   ; 1,6;11
